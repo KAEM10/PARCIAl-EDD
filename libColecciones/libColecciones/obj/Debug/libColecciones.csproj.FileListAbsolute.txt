@@ -1,0 +1,23 @@
+C:\Users\INGESIS\source\repos\libColecciones\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\INGESIS\source\repos\libColecciones\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\INGESIS\source\repos\libColecciones\libColecciones\obj\Debug\libColecciones.csproj.CoreCompileInputs.cache
+C:\Users\INGESIS\source\repos\libColecciones\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\INGESIS\source\repos\libColecciones\libColecciones\obj\Debug\libColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\libColecciones\obj\Debug\libColecciones.csprojAssemblyReference.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\libColecciones\obj\Debug\libColecciones.csproj.CoreCompileInputs.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\libColecciones\obj\Debug\libColecciones.pdb
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\libColecciones\obj\Debug\libColecciones.csproj.CoreCompileInputs.cache
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\libColecciones\obj\Debug\libColecciones.pdb
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\libColecciones\obj\Debug\libColecciones.csproj.AssemblyReference.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\libColecciones\obj\Debug\libColecciones.csprojAssemblyReference.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\libColecciones\obj\Debug\libColecciones.csproj.CoreCompileInputs.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\libColecciones\obj\Debug\libColecciones.pdb

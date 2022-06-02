@@ -1,0 +1,76 @@
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.AssemblyReference.cache
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CopyComplete
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\INGESIS\source\repos\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojAssemblyReference.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CopyComplete
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\Final\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.AssemblyReference.cache
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CopyComplete
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\INGESIS\Documents\Visual Studio 2019\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojAssemblyReference.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CopyComplete
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\maye\Documents\2022 - 1 - LAB\libColecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
